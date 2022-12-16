@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PZtvGRI4RrezQFT9qOse9cQuxcNiWitTKMn7vnsGRxEOR6IlfaGDBhtHbBZeAe8sS9LJEMepGK+Sh9xb63PmWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitorgc\\Documents\\GitHub\\suport-develop-sap-gui-scripting\\SuportDevelopSap\\FindComponents\\FindComponents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitorgc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\vitorgc\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\vitorgc\\.nuget\\packages\\wpf-ui\\2.0.3\\wpf-ui.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
